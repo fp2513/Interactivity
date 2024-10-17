@@ -1,0 +1,15 @@
+---
+title: "about"
+output: html_document
+date: "2024-10-17"
+---
+
+```{r setup, include=FALSE}
+
+```
+
+#Information about this website 
+
+This website was made as an example for [P8105](https://p8105.com/) for "Making Websites". I'm making in RMD and will sue GitHub for hosting.
+
+You can go [home](index.html)
